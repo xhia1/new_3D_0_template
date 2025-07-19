@@ -1,7 +1,7 @@
 ⚠Googleスライドに資料があります  
   
 ❶このテンプレートを複製する  
-❷settingsのPages設定でBranchを「None」から「main」に変更してsave  
+❷SettingsのPages設定でBranchを「None」から「main」に変更してsave  
 ❸githubで3dファイルをインポートする  
 ❷index.htmlのプログラムの背景の色を指定する所と、ファイル指定する所を変える  
 ❹Actionsで1番上の「pages build and deployment」を選択  
